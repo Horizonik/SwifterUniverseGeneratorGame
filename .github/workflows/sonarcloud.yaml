@@ -23,7 +23,7 @@ jobs:
           sudo apt-get install -y build-essential libc6 clang
       - name: Clone Unreal Engine 5.1 repository
         run: |
-          git clone --depth 1 --branch 5.1 https://github.com/EpicGames/UnrealEngine.git ~/UnrealEngine
+          git clone --depth 1 --branch 5.1 git@github.com:EpicGames/UnrealEngine.git ~/UnrealEngine
       - name: Build Unreal Engine 5.1
         run: |
           cd ~/UnrealEngine
