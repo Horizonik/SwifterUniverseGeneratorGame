@@ -1,3 +1,8 @@
+[![SonarCloud](https://github.com/Gemesil/SwifterUniverseGeneratorGame/actions/workflows/sonarcloud.yaml/badge.svg)](https://github.com/Gemesil/SwifterUniverseGeneratorGame/actions/workflows/sonarcloud.yaml)
+
+[![Linux Build](https://github.com/Gemesil/SwifterUniverseGeneratorGame/actions/workflows/build-game.yaml/badge.svg)](https://github.com/Gemesil/SwifterUniverseGeneratorGame/actions/workflows/build-game.yaml)
+
+
 # Swifter - Universe Generator Game (Space)
 A Unreal Engine 5 C++ universe generator built from scratch. Contains C++ code for:
 - Solar systems
