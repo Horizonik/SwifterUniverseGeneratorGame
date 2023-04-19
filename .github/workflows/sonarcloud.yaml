@@ -20,7 +20,7 @@ jobs:
       - name: Install Unreal Engine 5 dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y build-essential glibc clang
+          sudo apt-get install -y build-essential libc6 clang
       - name: Clone Unreal Engine 5.1 repository
         run: |
           git clone --depth 1 --branch 5.1 https://github.com/EpicGames/UnrealEngine.git ~/UnrealEngine
