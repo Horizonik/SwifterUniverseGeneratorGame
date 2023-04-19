@@ -1,5 +1,4 @@
 [![SonarCloud](https://github.com/Gemesil/SwifterUniverseGeneratorGame/actions/workflows/sonarcloud.yaml/badge.svg)](https://github.com/Gemesil/SwifterUniverseGeneratorGame/actions/workflows/sonarcloud.yaml)
-
 [![Linux Build](https://github.com/Gemesil/SwifterUniverseGeneratorGame/actions/workflows/build-game.yaml/badge.svg)](https://github.com/Gemesil/SwifterUniverseGeneratorGame/actions/workflows/build-game.yaml)
 
 
