@@ -19,6 +19,14 @@ Galaxies sorted in grids:
 
 <img src=".github/images/image.png" width="800">
 
+Debug printing all of the planet properties:
+
+<img src=".github/images/image6.png" width="200">
+
+Printing all of the planets in a generated solar system:
+
+<img src=".github/images/image7.png" width="200">
+
 Galaxy properties:
 
 <img src=".github/images/image3.png" width="400">
